@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio4_aspx\\Ejercicio4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A69067A2-0DEE-4CD7-AA10-AA3765EF5572}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\kevin eduardo\\desktop\\francisco arcides\\practica 3\\ejercicio4_aspx\\ejercicio4\\ejercicio4\\escribir.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A69067A2-0DEE-4CD7-AA10-AA3765EF5572}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\kevin eduardo\\desktop\\francisco arcides\\practica 3\\ejercicio4_aspx\\ejercicio4\\ejercicio4\\mostrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A69067A2-0DEE-4CD7-AA10-AA3765EF5572}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\mostrar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69067A2-0DEE-4CD7-AA10-AA3765EF5572}|Ejercicio4\\Ejercicio4.csproj|C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio4_aspx\\Ejercicio4\\ejercicio4\\escribir.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A69067A2-0DEE-4CD7-AA10-AA3765EF5572}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\escribir.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A69067A2-0DEE-4CD7-AA10-AA3765EF5572}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\kevin eduardo\\desktop\\francisco arcides\\practica 3\\ejercicio4_aspx\\ejercicio4\\ejercicio4\\escribir.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{A69067A2-0DEE-4CD7-AA10-AA3765EF5572}|Ejercicio4\\Ejercicio4.csproj|C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio4_aspx\\Ejercicio4\\ejercicio4\\mostrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A69067A2-0DEE-4CD7-AA10-AA3765EF5572}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\mostrar.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A69067A2-0DEE-4CD7-AA10-AA3765EF5572}|Ejercicio4\\Ejercicio4.csproj|C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio4_aspx\\Ejercicio4\\ejercicio4\\escribir.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{A69067A2-0DEE-4CD7-AA10-AA3765EF5572}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\escribir.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,20 +34,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Escribir.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio4_aspx\\Ejercicio4\\Ejercicio4\\Escribir.aspx.cs",
-              "RelativeDocumentMoniker": "Ejercicio4\\Escribir.aspx.cs",
-              "ToolTip": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio4_aspx\\Ejercicio4\\Ejercicio4\\Escribir.aspx.cs",
-              "RelativeToolTip": "Ejercicio4\\Escribir.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Mostrar.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio4_aspx\\Ejercicio4\\Ejercicio4\\Mostrar.aspx.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Mostrar.aspx.cs",
+              "ToolTip": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio4_aspx\\Ejercicio4\\Ejercicio4\\Mostrar.aspx.cs",
+              "RelativeToolTip": "Ejercicio4\\Mostrar.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T19:47:26.548Z",
+              "WhenOpened": "2025-03-05T21:33:00.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mostrar.aspx",
+              "DocumentMoniker": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio4_aspx\\Ejercicio4\\Ejercicio4\\Mostrar.aspx",
+              "RelativeDocumentMoniker": "Ejercicio4\\Mostrar.aspx",
+              "ToolTip": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio4_aspx\\Ejercicio4\\Ejercicio4\\Mostrar.aspx",
+              "RelativeToolTip": "Ejercicio4\\Mostrar.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-03-05T21:31:01.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Escribir.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio4_aspx\\Ejercicio4\\Ejercicio4\\Escribir.aspx.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Escribir.aspx.cs",
+              "ToolTip": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio4_aspx\\Ejercicio4\\Ejercicio4\\Escribir.aspx.cs",
+              "RelativeToolTip": "Ejercicio4\\Escribir.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T19:47:26.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Escribir.aspx",
               "DocumentMoniker": "C:\\Users\\kevin eduardo\\Desktop\\Francisco Arcides\\Practica 3\\ejercicio4_aspx\\Ejercicio4\\Ejercicio4\\Escribir.aspx",
               "RelativeDocumentMoniker": "Ejercicio4\\Escribir.aspx",
@@ -47,8 +79,7 @@
               "RelativeToolTip": "Ejercicio4\\Escribir.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-03-05T19:47:00.205Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T19:47:00.205Z"
             }
           ]
         }
